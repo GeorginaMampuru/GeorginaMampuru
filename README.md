@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Georgina Mampuru</h1>
 <h3 align="center">A passionate Software Developer</h3>
-![Black and White Modern Linkedin Banner](https://github.com/GeorginaMampuru/GeorginaMampuru/assets/66384787/6cb444d1-bf48-4e51-844f-e24ff35913b3)
 
+
+![Black and White Modern Linkedin Banner](https://github.com/GeorginaMampuru/GeorginaMampuru/assets/66384787/2a6c6e04-c0ac-4c06-92d7-dc757ab8c6e5)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georginamampuru&label=Profile%20views&color=0e75b6&style=flat" alt="georginamampuru" /> </p>
 
